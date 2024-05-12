@@ -1,4 +1,4 @@
-
+## ChatGPT-4 in Telegram: 100% FREE and Open source, no daily limit, Spanish and English support.
 <div align="center">
 <img src="https://raw.githubusercontent.com/Pablommp/Free-ChatGPT-telegram-bot/main/Static/header.jpg" align="center" style="width: 80%" />
 </div>
