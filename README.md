@@ -4,14 +4,19 @@
 </div>
 
 <br>
+<br>
 
-<div style="text-align: center;">
+<p align="center">
     <a href="https://t.me/ultraChatTeleGPT_bot"><img alt="Static Badge" src="https://img.shields.io/badge/RUN-TelegramBot-blue" width="230"></a>
-</div>
+</p>
 
+<br>
+<br>
 
 Chat with ChatGPT on Telegram, completely free, open-source, and with no daily message limit.
 
+<br>
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pablommp/Free-ChatGPT-telegram-bot/main/Static/example.jpg" width="300" />
 </p>
