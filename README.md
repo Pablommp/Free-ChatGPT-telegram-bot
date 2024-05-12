@@ -13,7 +13,18 @@
 <br>
 <br>
 
-Chat with ChatGPT on Telegram, completely free, open-source, and with no daily message limit.
+Chat with ChatGPT on Telegram, completely free, open-source.<br>
+No **daily message limit**
+<br>
+No need to **register**
+<br>
+No need to **pay**
+<br>
+<br>
+**SUPPORTED MODELS:<br>**
+ChatGPT-3.5<br>
+ChatGPT-4<br>
+ChatGPT-4-Turbo<br>
 
 <br>
 <br>
