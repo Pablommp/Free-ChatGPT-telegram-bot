@@ -5,8 +5,9 @@
 
 <br>
 
-<a href="https://t.me/ultraChatTeleGPT_bot"><img alt="Static Badge" src="https://img.shields.io/badge/RUN-TelegramBot-blue" width="230" align="center"></a>
-
+<div style="text-align: center;">
+    <a href="https://t.me/ultraChatTeleGPT_bot"><img alt="Static Badge" src="https://img.shields.io/badge/RUN-TelegramBot-blue" width="230"></a>
+</div>
 
 
 Chat with ChatGPT on Telegram, completely free, open-source, and with no daily message limit.
