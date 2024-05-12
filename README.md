@@ -5,7 +5,7 @@
 
 <br>
 
-<center><a href="https://t.me/ultraChatTeleGPT_bot"><img alt="Static Badge" src="https://img.shields.io/badge/RUN-TelegramBot-blue" width="230"></a></center>
+<a href="https://t.me/ultraChatTeleGPT_bot"><img alt="Static Badge" src="https://img.shields.io/badge/RUN-TelegramBot-blue" width="230" align="center"></a>
 
 
 
