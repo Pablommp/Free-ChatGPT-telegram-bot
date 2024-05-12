@@ -165,9 +165,9 @@ def cmd_start(message):
         language = "english"
         
     if language == "spanish":
-        bot.reply_to(message, f"Este bot es la versión {version}\n\nGithub: https://github.com/PabloMarpen\n\nTelegram: https://t.me/Void_1212\n\nIA API: https://github.com/xtekky/gpt4free")
+        bot.reply_to(message, f"Este bot es la versión {version}\n\nGithub: https://github.com/Pablommp/Free-ChatGPT-telegram-bot\n\nTelegram: https://t.me/Void_1212\n\nIA API: https://github.com/xtekky/gpt4free")
     else:
-        bot.reply_to(message, f"This bot is the version {version}\n\nGithub: https://github.com/PabloMarpen\n\nTelegram: https://t.me/Void_1212\n\nIA API: https://github.com/xtekky/gpt4free")
+        bot.reply_to(message, f"This bot is the version {version}\n\nGithub: https://github.com/Pablommp/Free-ChatGPT-telegram-bot\n\nTelegram: https://t.me/Void_1212\n\nIA API: https://github.com/xtekky/gpt4free")
 
 @bot.message_handler(commands=["model", "version"])
 def cmd_start(message):
